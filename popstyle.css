@@ -6,11 +6,19 @@ body{
 }
 
 h1{
-    color:aqua
-    margin-Left 30px;
+    color:aqua;
+    margin-Left: 30px;
 }
 
 p{
-    color:aquamarine
-    margin-Left 30px;
+    color:aquamarine;
+    margin-left: 30px;
+
+
+
+}
+
+ing {
+    width: 50%;
+border-radius: 10px;
 }
