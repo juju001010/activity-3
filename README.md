@@ -1,5 +1,5 @@
 # Good day!
-This is an activity for IT 332 - Integrative Programming and Technologies
-Here is the activity link https://github.com/marjorijavier/activity-3
+I am Marjori Javier from 3306
+This resperatory is for activity 3 of IT 332 - Integrative Programming and Technologies
 
-Let's gooo!!
+Let's gooo and keep learning!!
